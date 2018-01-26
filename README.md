@@ -1,4 +1,4 @@
-# COMP2401---Assignment-2
+# Transmission Communication Line
 A program that simulates a transmission communication line.
 
 ###TO RUN THE RECIEVE PROGRAM###
